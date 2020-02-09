@@ -1,6 +1,7 @@
 module.exports = {
   title: '成为专业人士的基础能力',
   description: '成为专业人士的基础能力',
+  base: '/basic-skill/dist/', // 部署站点的基础路径
   dest: './dist', // 构建输出的位置，从项目根路径开始算。
   plugins: ['@vuepress/back-to-top'],
   themeConfig: {
