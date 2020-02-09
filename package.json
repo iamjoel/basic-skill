@@ -1,0 +1,25 @@
+{
+  "name": "basic-skill",
+  "version": "1.0.0",
+  "description": "成为专业人士的基础能力",
+  "main": "index.js",
+  
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjoel/basic-skill.git"
+  },
+  "author": "Joel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamjoel/basic-skill/issues"
+  },
+  "homepage": "https://github.com/iamjoel/basic-skill#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.3.0",
+    "vuepress": "^1.3.0"
+  }
+}
