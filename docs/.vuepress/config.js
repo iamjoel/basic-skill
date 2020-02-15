@@ -27,7 +27,7 @@ module.exports = {
               path: '/skill/write/content/method'
             },
             {
-              title: '选题',
+              title: '写好标题的技巧',
               path: '/skill/write/content/choose-title'
             },
           ]
