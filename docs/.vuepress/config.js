@@ -52,6 +52,26 @@ module.exports = {
                   title: '写好标题的技巧',
                   path: '/skill/write/content/kata/choose-title/'
                 },
+                {
+                  title: '写好开头的技巧',
+                  path: '/skill/write/content/kata/begin'
+                },
+                {
+                  title: '写好结尾的技巧',
+                  path: '/skill/write/content/kata/end'
+                },
+                {
+                  title: '做加法：提高信息总量',
+                  path: '/skill/write/content/kata/add-more'
+                },
+                {
+                  title: '做减法：提高信息密度',
+                  path: '/skill/write/content/kata/simplify'
+                },
+                {
+                  title: '优化文章的技巧',
+                  path: '/skill/write/content/kata/optimize'
+                },
               ]
             },
             
