@@ -20,16 +20,29 @@ module.exports = {
       children: [
         {
           title: '写作',
-          path: '/skill/write',
           children: [
             {
-              title: '写作框架',
-              path: '/skill/write/content/method'
+              title: '介绍',
+              path: '/skill/write/'
+            },
+            // {
+            //   title: '写作框架',
+            //   path: '/skill/write/content/method'
+            // },
+            {
+              title: '积累写作素材',
+              path: '/skill/write/content/source-material/'
             },
             {
-              title: '写好标题的技巧',
-              path: '/skill/write/content/choose-title'
+              title: '写作套路',
+              children: [
+                {
+                  title: '选标题的技巧',
+                  path: '/skill/write/content/kata/choose-title/'
+                },
+              ]
             },
+            
           ]
         }
       ]
