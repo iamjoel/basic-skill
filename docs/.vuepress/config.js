@@ -45,17 +45,12 @@ module.exports = {
                   path: '/skill/write/content/kata/rule'
                 },
                 {
-                  title: '选题',
-                  children: [
-                    {
-                      title: '选题的技巧',
-                      path: '/skill/write/content/kata/choose-title/rule'
-                    },
-                    {
-                      title: '寻找选题的技巧',
-                      path: '/skill/write/content/kata/choose-title/find'
-                    },
-                  ]
+                  title: '寻找选题的技巧',
+                  path: '/skill/write/content/kata/choose-content'
+                },
+                {
+                  title: '写好标题的技巧',
+                  path: '/skill/write/content/kata/choose-title/'
                 },
               ]
             },
