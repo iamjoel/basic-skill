@@ -37,8 +37,25 @@ module.exports = {
               title: '写作套路',
               children: [
                 {
-                  title: '选标题的技巧',
-                  path: '/skill/write/content/kata/choose-title/'
+                  title: '遵循用户思维写作',
+                  path: '/skill/write/content/kata/2-user'
+                },
+                {
+                  title: '写作公式',
+                  path: '/skill/write/content/kata/rule'
+                },
+                {
+                  title: '选题',
+                  children: [
+                    {
+                      title: '选题的技巧',
+                      path: '/skill/write/content/kata/choose-title/rule'
+                    },
+                    {
+                      title: '寻找选题的技巧',
+                      path: '/skill/write/content/kata/choose-title/find'
+                    },
+                  ]
                 },
               ]
             },
