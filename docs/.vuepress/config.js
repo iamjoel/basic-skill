@@ -69,7 +69,7 @@ module.exports = {
                   path: '/skill/write/content/kata/simplify'
                 },
                 {
-                  title: '优化文章的技巧',
+                  title: '其他优化文章的技巧',
                   path: '/skill/write/content/kata/optimize'
                 },
               ]
