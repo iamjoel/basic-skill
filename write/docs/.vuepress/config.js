@@ -15,13 +15,9 @@ module.exports = {
         title: '介绍',
         path: '/'
       },
-      // {
-      //   title: '写作框架',
-      //   path: '/content/method'
-      // },
       {
-        title: '积累写作素材',
-        path: '/content/source-material/'
+        title: '行文逻辑',
+        path: '/content/logic/'
       },
       {
         title: '叙事方法',
@@ -65,10 +61,18 @@ module.exports = {
             path: '/content/kata/simplify'
           },
           {
+            title: '少用形容词 多用名词、动词',
+            path: '/content/kata/use-word-tip'
+          },
+          {
             title: '其他优化文章的技巧',
             path: '/content/kata/optimize'
           },
         ]
+      },
+      {
+        title: '积累写作素材',
+        path: '/content/source-material/'
       },
     ]
   }
