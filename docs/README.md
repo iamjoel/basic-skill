@@ -3,15 +3,8 @@
 
 这边罗列了些要成为专业人士，需要具备的一些基本能力。
 
-## 获取信息的能力
-* 阅读
-* 搜索
-
-## 整理信息的能力
-
-## 输出的能力
-* [写作](skill/write)
-* 演讲
-
-## 其他
-* 协作
+* [健康](https://iamjoel.github.io/basic-skill/health/dist/)
+* [阅读](https://iamjoel.github.io/basic-skill/reading/dist/),[写作](https://iamjoel.github.io/basic-skill/write/dist/), 演讲
+* 沟通
+* 学习
+* 识人

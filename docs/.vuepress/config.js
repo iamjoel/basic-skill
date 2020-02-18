@@ -18,6 +18,14 @@ module.exports = {
       collapsable: false,
       children: [
         {
+          title: '健康',
+          path: 'https://iamjoel.github.io/basic-skill/health/dist/'
+        },
+        {
+          title: '阅读',
+          path: 'https://iamjoel.github.io/basic-skill/reading/dist/'
+        },
+        {
           title: '写作',
           path: 'https://iamjoel.github.io/basic-skill/write/dist/'
         }
