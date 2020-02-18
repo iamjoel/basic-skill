@@ -74,6 +74,10 @@ module.exports = {
         title: '积累写作素材',
         path: '/content/source-material/'
       },
+      {
+        title: '写作检查列表',
+        path: '/checklist'
+      },
     ]
   }
 }
