@@ -15,6 +15,16 @@ module.exports = {
         title: '介绍',
         path: '/'
       },
+      {
+        title: '内容',
+        collapsable: false,
+        children: [
+          {
+            title: '八段锦',
+            path: '/content/baduanjin'
+          }
+        ]
+      },
     ]
   }
 }
