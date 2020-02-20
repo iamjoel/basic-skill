@@ -3,7 +3,7 @@
 
 这边罗列了些要成为专业人士，需要具备的一些基本能力。
 
-* [健康](https://iamjoel.github.io/basic-skill/health/dist/)
+* [健康](https://iamjoel.github.io/basic-skill/health/dist/)，[心智](https://iamjoel.github.io/basic-skill/mind/dist/)
 * [阅读](https://iamjoel.github.io/basic-skill/reading/dist/),[写作](https://iamjoel.github.io/basic-skill/write/dist/), 演讲
 * 沟通
 * 学习
