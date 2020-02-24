@@ -1,7 +1,7 @@
 module.exports = {
   title: '沟通',
   description: '沟通',
-  base: '/basic-skill/communicate/cooperate/', // 部署站点的基础路径
+  base: '/basic-skill/cooperate/dist/', // 部署站点的基础路径
   dest: './dist', // 构建输出的位置，从项目根路径开始算。
   plugins: ['@vuepress/back-to-top'],
   themeConfig: {
