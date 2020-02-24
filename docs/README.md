@@ -3,8 +3,8 @@
 
 这边罗列了些要成为专业人士，需要具备的一些基本能力。
 
-* [健康](https://iamjoel.github.io/basic-skill/health/dist/)，[心智](https://iamjoel.github.io/basic-skill/mind/dist/): 包括心理学，识人等。
+* [健康](https://iamjoel.github.io/basic-skill/health/dist/),[心智](https://iamjoel.github.io/basic-skill/mind/dist/): 包括心理学，识人等。
 * [阅读](https://iamjoel.github.io/basic-skill/reading/dist/),[写作](https://iamjoel.github.io/basic-skill/write/dist/), 演讲
-* 沟通
-* 学习
+* [沟通](https://iamjoel.github.io/basic-skill/communicate/dist/),[协作](https://iamjoel.github.io/basic-skill/cooperate/dist/),
+* [学习](https://iamjoel.github.io/basic-skill/learn/dist/)
 * 识人
