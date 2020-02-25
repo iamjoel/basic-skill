@@ -13,3 +13,8 @@
 
 ## 认识你自己 - 苏格拉
 一个连自己性格如何、能力怎样都不知道的人，就像一只悲哀的无头苍蝇，只能四处碰壁，最终头破血流。
+
+## 时间和经验是治好年少轻狂的良药
+> There's a cure for youth and stupidity -- time and experience.
+> 《Good Doctor(良医)》
+
