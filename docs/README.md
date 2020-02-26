@@ -8,3 +8,5 @@
 * [沟通](https://iamjoel.github.io/basic-skill/communicate/dist/),[协作](https://iamjoel.github.io/basic-skill/cooperate/dist/),
 * [学习](https://iamjoel.github.io/basic-skill/learn/dist/)
 * 识人
+
+除了这些，还有有目的。没有目的，就像空有屠龙技，找不到龙。
