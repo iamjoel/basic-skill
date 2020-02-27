@@ -23,6 +23,10 @@ module.exports = {
           {
             title: '八段锦',
             path: '/content/baduanjin'
+          },
+          {
+            title: '冥想',
+            path: '/content/meditation'
           }
         ]
       },
