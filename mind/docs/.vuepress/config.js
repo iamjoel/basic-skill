@@ -17,7 +17,20 @@ module.exports = {
         path: '/'
       },
       {
-        title: '内容',
+        title: '了解自己',
+        children: [
+          {
+            title: '关于',
+            path: '/understand-yourself/'
+          },
+          {
+            title: '普鲁斯特问卷',
+            path: '/understand-yourself/proust-questionnaire'
+          }
+        ]
+      },
+      {
+        title: '其他',
         collapsable: false,
         children: [
           {

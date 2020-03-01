@@ -22,7 +22,7 @@
 * [写作](https://iamjoel.github.io/basic-skill/write/dist/), 演讲
 * [沟通](https://iamjoel.github.io/basic-skill/communicate/dist/),[协作](https://iamjoel.github.io/basic-skill/cooperate/dist/),
 
-第三层: 融合  
+第四层: 融合  
 [心智](https://iamjoel.github.io/basic-skill/mind/dist/)(包括方法论，思维逻辑，心理学)
 
 除了这些，还有有目的。没有目的，就像空有屠龙技，找不到龙。
