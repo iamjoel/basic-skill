@@ -23,7 +23,15 @@ module.exports = {
           {
             title: '选书的原则',
             path: '/content/how-to-choose'
-          }
+          },
+          {
+            title: '快速阅读',
+            path: '/content/fast-read'
+          },
+          {
+            title: '读书笔记',
+            path: '/content/reading-note'
+          },
         ]
       }
     ]
