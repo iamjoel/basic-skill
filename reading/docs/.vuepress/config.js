@@ -40,7 +40,11 @@ module.exports = {
           {
             title: '《快速阅读》 读书笔记',
             path: '/post-reading-feeling/visual-reading'
-          }
+          },
+          {
+            title: '《快速阅读术》 读书笔记',
+            path: '/post-reading-feeling/fast-reading-method'
+          },
         ]
       }
     ]
