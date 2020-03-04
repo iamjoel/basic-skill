@@ -29,9 +29,18 @@ module.exports = {
             path: '/content/fast-read'
           },
           {
-            title: '读书笔记',
+            title: '如何写读书笔记',
             path: '/content/reading-note'
           },
+        ]
+      },
+      {
+        title: '读书笔记',
+        children: [
+          {
+            title: '《快速阅读》 读书笔记',
+            path: '/post-reading-feeling/visual-reading'
+          }
         ]
       }
     ]
