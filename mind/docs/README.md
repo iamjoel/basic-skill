@@ -85,6 +85,9 @@
 
 详情见[这里](https://zhuanlan.zhihu.com/p/23279084)
 
+## 系统思维
+推荐 [《系统之美》](https://book.douban.com/subject/11528220/)
+
 ## 参考&资源
 * [《新生:七年就是一辈子》](https://b.xinshengdaxue.com/index.html) 李笑来。
 * [《把时间当作朋友：运用心智获得解放》](https://book.douban.com/subject/3609132/)
