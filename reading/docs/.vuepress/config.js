@@ -22,7 +22,7 @@ module.exports = {
         children: [
           {
             title: '选书的原则',
-            path: '/content/how-to-choose'
+            path: '/content/how-to-choose',
           },
           {
             title: '快速阅读',
