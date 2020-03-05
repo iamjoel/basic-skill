@@ -86,7 +86,11 @@
 详情见[这里](https://zhuanlan.zhihu.com/p/23279084)
 
 ## 系统思维
-推荐 [《系统之美》](https://book.douban.com/subject/11528220/)
+推荐 [《系统之美》](https://book.douban.com/subject/11528220/)。
+
+《系统化思维导论》重在说理，《系统思考》重在介绍分析工具，《第五项修炼》重在阐述如何在组织内推进系统思考。
+
+《系统之美》的作者是 《第五项修炼》的老师。
 
 ## 参考&资源
 * [《新生:七年就是一辈子》](https://b.xinshengdaxue.com/index.html) 李笑来。

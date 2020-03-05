@@ -10,10 +10,16 @@ module.exports = {
       {text: 'GitHub', link: 'https://github.com/iamjoel/basic-skill'},
     ],
     // https://vuepress.vuejs.org/zh/theme/default-theme-config.html#%E4%BE%A7%E8%BE%B9%E6%A0%8F
-    sidebar: [{
-      title: '介绍',
-      path: '/',
-    }]
+    sidebar: [
+      {
+        title: '介绍',
+        path: '/',
+      },
+      {
+        title: '书单',
+        path:  '/book-list'
+      }
+    ]
 
   }
 }
