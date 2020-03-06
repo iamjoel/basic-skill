@@ -39,6 +39,15 @@ module.exports = {
           }
         ]
       },
+      {
+        title: '读书笔记',
+        children: [
+          {
+            title: '《幸福的方法》 读书笔记',
+            path: '/post-reading-feeling/happier'
+          },
+        ]
+      }
     ]
   }
 }

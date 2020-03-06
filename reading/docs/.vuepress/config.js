@@ -25,7 +25,7 @@ module.exports = {
             path: '/content/how-to-choose',
           },
           {
-            title: '快速阅读',
+            title: '快速阅读的方法-总结',
             path: '/content/fast-read'
           },
           {
