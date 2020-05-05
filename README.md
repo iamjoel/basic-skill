@@ -20,6 +20,13 @@
 * 赚钱
   * 评估价值
 
+## [方法](methods)
+* 评估情况
+  * [PEST 分析法](methods/PEST.md) 和 SLEPT分析
+  * SWOT
+  * [VRIO模型-认清自己及分析公司的好办法](methods/VRIO.md)
+  * 波特五力模型
+
 ## 核心能力
 * 输入
   * 获取信息
